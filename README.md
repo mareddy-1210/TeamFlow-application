@@ -37,7 +37,7 @@ TeamFlow is a Project Management System developed using Spring Boot. It provides
 4. Run:
 
 ```
-mvn spring-boot:run
+.\mvnw spring-boot:run
 ```
 
 ## Author
