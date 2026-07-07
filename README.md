@@ -235,6 +235,13 @@ Refer to the **Architecture Diagram** included in the repository.
 All REST APIs were tested using **Thunder Client**.
 
 ---
+## Architecture Diagram
+
+![Architecture Diagram](architecture.png)
+
+## ER Diagram
+
+![ER Diagram](ER-Diagram.png)
 
 # Author
 
