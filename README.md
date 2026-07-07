@@ -237,7 +237,7 @@ All REST APIs were tested using **Thunder Client**.
 ---
 ## Architecture Diagram
 
-![Architecture](architecture.png)
+![Architecture](architecture .png)
 
 ## ER Diagram
 
